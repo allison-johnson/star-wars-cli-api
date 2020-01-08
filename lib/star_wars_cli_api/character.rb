@@ -1,5 +1,7 @@
 #Want to be able to persist Character objects onto an array
 
+#Test comment
+
 class Character
   attr_accessor :name, :height, :mass, :hair_color, :skin_color, :eye_color, :birth_year, :gender, :homeworld
 
